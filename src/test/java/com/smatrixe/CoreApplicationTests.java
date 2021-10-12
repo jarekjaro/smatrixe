@@ -1,4 +1,4 @@
-package com.smatrixe.core;
+package com.smatrixe;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
